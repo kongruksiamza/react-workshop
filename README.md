@@ -17,3 +17,5 @@ Source Code
 - [Dynamic Dropdown](https://github.com/kongruksiamza/react-dynamic-dropdown)
 - [Infinite Scroll Photo](https://github.com/kongruksiamza/infinite-scroll-photo)
 - [ระบบหลายเลขหน้า (Pagination)](https://github.com/kongruksiamza/react-pagination)
+- [Weather API](https://github.com/kongruksiamza/react-weather-api)
+- [ระบบตะกร้าสินค้า (Shopping Cart)](https://github.com/kongruksiamza/react-shopping-cart)
