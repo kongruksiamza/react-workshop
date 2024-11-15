@@ -20,6 +20,9 @@
 - [Weather API](https://github.com/kongruksiamza/react-weather-api)
 - [ระบบตะกร้าสินค้า (Shopping Cart)](https://github.com/kongruksiamza/react-shopping-cart)
 
+## 🚀 Guideline & Documents
+- แนวทางการเรียนรู้การพัฒนาเว็บแอพพลิเคชั่น (Web Development) [อ่านบทความ](https://github.com/kongruksiamza/web-guideline)
+
 ## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
 <div id="badges">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
